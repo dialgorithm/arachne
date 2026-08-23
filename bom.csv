@@ -1,0 +1,16 @@
+component, qty, cost, why, source
+M3 X 6mm Hex Screws, 100, $3.2, hold things in place, https://onlyscrews.in/products/m3-x-6mm-hex-allen-button-head-hight-tensile10-9-black-oxide-screw-dia-3mm-length-6mm?variant=51038402543929
+M3 X 10mm Hex Screws, 100, $3.2, hold things in place, https://onlyscrews.in/products/m3-x-10mm-hex-allen-button-head-hight-tensile10-9-black-oxide-screw-dia-3mm-length-10mm?variant=49994717692217
+screw shipping, 1, $1.7, receive the screws above, https://onlyscrews.in/cart
+MG996R servo 180 degrees, 18, $84, movement, https://robu.in/product/towardpro-mg996r-digital-high-torque-servo-motor/
+Li-Po Battery 3S 2200 mAh, 1, $20.3, power, https://robocraze.com/products/bonka-2200mah-35c-3s1p-11-1v-lipo-battery
+695ZZ Deep Groove Ball Bearing, 20, $23, smooth movement, https://www.amazon.in/uxcell-Groove-Bearing-1080095-Bearings/dp/B07FVYR9S5?th=1
+KCD1 Rocker Switch, 2, $2, turn on and off, https://www.amazon.in/Universal-KCD1-104-Plastic-Appliances-Electronics/dp/B0GSGN9X2M
+30CM Servo Extension Cable Pack of 10, 2, $6.8, to connect servo to the dev board, https://www.amazon.in/30CM-Servo-Extension-Cable-Pack/dp/B0FBLG72DJ
+HGLRC ELRS 2.4G ELRS Receiver, 1, $17.7, to connect to the elrs transmitter, https://robocraze.com/products/hglrc-elrs-2-4g-receiver
+XL4016 DC 10A 300W Step Down Buck Converter, 1, $6, regulate power to servos, https://www.amazon.in/INFINITY-XL4016-Converter-1-2-35V-Function/dp/B0CSK7L7PS
+Arduino Mega, 1, $40, brain, https://beta.thingbits.net/products/arduino-mega-2560-rev3
+Cable for Arduino, 1, $4, upload code and stuff, https://www.amazon.in/rts-Printer-1-5M-Scanner-Controller/dp/B0F24P7W1H
+16AWG Silicone Braided Wire, 10m, $6, connect stuff, https://robu.in/product/16awg-silicone-braided-wire-red/
+5V 3A BEC, 1, $2, regulated power, https://robu.in/product/ultra-small-size-dc-dc-5v-3a-bec-power-supply-buck-step-down-module/
+3d printed parts, as per stl folder, 
