@@ -37,9 +37,9 @@ The mechanical structure was designed to accommodate the six legs, servo motors,
 
 Each leg has **3 degrees of freedom**:
 
-- **Coxa** — controls the horizontal rotation and positioning of the leg
-- **Femur** — controls the main lifting movement of the leg
-- **Tibia** — controls the lower leg extension and foot position
+- **Coxa** controls the horizontal rotation and positioning of the leg
+- **Femur** controls the main lifting movement of the leg
+- **Tibia** controls the lower leg extension and foot position
 
 With six independently controlled legs, the robot uses **18 servo motors** in total.
 
