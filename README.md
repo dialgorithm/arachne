@@ -1,4 +1,4 @@
-# Hexapod Walking Robot
+# arachne
 
 ![hexapod robot](assets/fusion_side.png)
 
