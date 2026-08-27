@@ -1,6 +1,13 @@
-# arachne
+<h1 align="center">
+  arachne
+  <br>
+</h1>
 
-![hexapod robot](assets/fusionrender.png)
+<h4 align="center">
+    18 dof hexapod
+</h4>
+
+![pcb](assets/3dinit.png)
 
 This project features a **6-legged (hexapod) walking robot** controlled by an **Arduino Mega**. Each leg has **3 degrees of freedom**, using a total of **18 servo motors** to provide precise and balanced movement. The robot uses a **tripod gait algorithm** for stable walking and connects wirelessly using an **ExpressLRS (ELRS) receiver**.
 
