@@ -21,7 +21,7 @@ The **Arduino Mega** handles the servo control and gait calculations, while the 
 
 ### wiring
 
-![wiring](content/wiring.png)
+![wiring](assets/wiring.png)
 
 ## CAD
 
