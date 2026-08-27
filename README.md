@@ -19,6 +19,10 @@ The mechanical structure is arranged symmetrically around the center of the robo
 
 The **Arduino Mega** handles the servo control and gait calculations, while the **ELRS receiver** provides wireless commands to the robot.
 
+### wiring
+
+![wiring](content/wiring.png)
+
 ## CAD
 
 Final 3D views of the hexapod robot.
