@@ -34,9 +34,9 @@ the arduino mega controls the servos and handles the gait calculations, while th
 | ---------------------------------- | ---------------------------------------- |
 | ![top view](assets/fusion_top.png) | ![bottom view](assets/fusion_bottom.png) |
 
-| Side view                            |
-| ------------------------------------ |
-| ![side view](assets/fusion_side.png) |
+| Render                             |
+| ---------------------------------- |
+| ![render](assets/fusionrender.png) |
 
 ## BOM
 
